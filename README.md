@@ -3,7 +3,7 @@
 🎓 Currently studying Analysis and Systems Development (ADS)  
 🌱 I’m diving deep into backend with .NET and building solid frontends with modern tools  
 💡 I’m looking to collaborate on real-world projects that need clean code and smart architecture  
-📫 Reach me at: victor.brk.dev@gmail.com  
+📫 Reach me at: victor.developer654@gmail.com  
 🧑‍💻 Pronouns: he/him  
 ⚡ Fun fact: I automate things just to avoid doing them twice — even if it takes me twice as long 😎
 
